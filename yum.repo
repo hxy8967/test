@@ -1,0 +1,4 @@
+[yum]
+name=yum
+baseurl=file:///media
+gpgcheck=0
